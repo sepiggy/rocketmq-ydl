@@ -1,0 +1,7 @@
+server:
+  port: 9021
+
+rocketmq:
+  name-server: localhost:9876
+  producer:
+    group: producer-group-1
