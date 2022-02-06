@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/demo03-one2many/pom.xml" />
+        <option value="$PROJECT_DIR$/demo06-sort/pom.xml" />
         <option value="$PROJECT_DIR$/rocketmq-demo01/pom.xml" />
       </set>
     </option>

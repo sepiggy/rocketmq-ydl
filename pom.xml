@@ -20,6 +20,8 @@
         <module>demo03-type</module>
         <module>demo04-filter</module>
         <module>demo05-springboot</module>
+        <module>demo06-order</module>
+        <module>demo07-tx</module>
     </modules>
 
     <properties>
